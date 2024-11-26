@@ -9,8 +9,7 @@ https://myappscripestore.netlify.app/
 **Steps to install the program:**
 
 1. Download the Files
-Clone or download the repository to your local machine. You can use the following Git command to clone the repo:
-git clone https://github.com/Appscrip-task-SatyamSundram/ecommerce-demo.git
+Clone or download the repository to your local machine. You can use the following Git command to clone the repo.
 
 2. Navigate to the Project Directory
 After downloading, move into the project directory using the cd command:
